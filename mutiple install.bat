@@ -1,7 +1,6 @@
 @Echo off
 
 Title Mulitplue install Tool
-::모바일QA실 모바일플랫폼QA팀 모바일QC 박경공, 정송희
 ::ver.1 apk 다중 설치
 echo.
 
